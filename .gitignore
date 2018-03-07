@@ -218,4 +218,5 @@ AutomationFramework/bin/Debug/*.dll
 AutomationFrameworkMobile/bin/Debug/*.dll
 *.playlist
 *.stackdump
-
+packages
+*.xml
